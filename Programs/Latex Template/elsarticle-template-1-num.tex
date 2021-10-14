@@ -1,0 +1,268 @@
+%% This is file `elsarticle-template-1-num.tex',
+%%
+%% Copyright 2009 Elsevier Ltd
+%%
+%% This file is part of the 'Elsarticle Bundle'.
+%% ---------------------------------------------
+%%
+%% It may be distributed under the conditions of the LaTeX Project Public
+%% License, either version 1.2 of this license or (at your option) any
+%% later version.  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.2 or later is part of all distributions of LaTeX
+%% version 1999/12/01 or later.
+%%
+%% The list of all files belonging to the 'Elsarticle Bundle' is
+%% given in the file `manifest.txt'.
+%%
+%% Template article for Elsevier's document class `elsarticle'
+%% with numbered style bibliographic references
+%%
+%% $Id: elsarticle-template-1-num.tex 149 2009-10-08 05:01:15Z rishi $
+%% $URL: http://lenova.river-valley.com/svn/elsbst/trunk/elsarticle-template-1-num.tex $
+%%
+%\documentclass[12pt]{elsarticle}
+
+%% Use the option review to obtain double line spacing
+%% \documentclass[preprint,review,12pt]{elsarticle}
+
+%% Use the options 1p,twocolumn; 3p; 3p,twocolumn; 5p; or 5p,twocolumn
+%% for a journal layout:
+%% \documentclass[final,1p,times]{elsarticle}
+%% \documentclass[final,1p,times,twocolumn]{elsarticle}
+%% \documentclass[final,3p,times]{elsarticle}
+%% \documentclass[final,3p,times,twocolumn]{elsarticle}
+%% \documentclass[final,5p,times]{elsarticle}
+%% \documentclass[final,5p,times,twocolumn]{elsarticle}
+
+%% if you use PostScript figures in your article
+%% use the graphics package for simple commands
+%% \usepackage{graphics}
+%% or use the graphicx package for more complicated commands
+%% \usepackage{graphicx}
+%% or use the epsfig package if you prefer to use the old commands
+%% \usepackage{epsfig}
+
+%% The amssymb package provides various useful mathematical symbols
+
+%% The amsthm package provides extended theorem environments
+%% \usepackage{amsthm}
+
+%% The lineno packages adds line numbers. Start line numbering with
+%% \begin{linenumbers}, end it with \end{linenumbers}. Or switch it on
+%% for the whole article with \linenumbers after \end{frontmatter}.
+%\usepackage{lineno}
+
+%% natbib.sty is loaded by default. However, natbib options can be
+%% provided with \biboptions{...} command. Following options are
+%% valid:
+
+%%   round  -  round parentheses are used (default)
+%%   square -  square brackets are used   [option]
+%%   curly  -  curly braces are used      {option}
+%%   angle  -  angle brackets are used    <option>
+%%   semicolon  -  multiple citations separated by semi-colon
+%%   colon  - same as semicolon, an earlier confusion
+%%   comma  -  separated by comma
+%%   numbers-  selects numerical citations
+%%   super  -  numerical citations as superscripts
+%%   sort   -  sorts multiple citations according to order in ref. list
+%%   sort&compress   -  like sort, but also compresses numerical citations
+%%   compress - compresses without sorting
+%%
+%% \biboptions{comma,round}
+
+% \biboptions{}
+
+
+%\documentclass[12pt]{elsarticle}
+
+
+
+%\documentclass[final,12pt]{elsarticle}
+\documentclass[final,12pt]{article}
+\usepackage{lipsum}
+\usepackage{hyperref}
+\usepackage{natbib}
+
+
+
+
+\begin{document}
+
+
+%% Title, authors and addresses
+
+%% use the tnoteref command within \title for footnotes;
+%% use the tnotetext command for the associated footnote;
+%% use the fnref command within \author or \address for footnotes;
+%% use the fntext command for the associated footnote;
+%% use the corref command within \author for corresponding author footnotes;
+%% use the cortext command for the associated footnote;
+%% use the ead command for the email address,
+%% and the form \ead[url] for the home page:
+%%
+%% \title{Title\tnoteref{label1}}
+%% \tnotetext[label1]{}
+%% \author{Name\corref{cor1}\fnref{label2}}
+%% \ead{email address}
+%% \ead[url]{home page}
+%% \fntext[label2]{}
+%% \cortext[cor1]{}
+%% \address{Address\fnref{label3}}
+%% \fntext[label3]{}
+
+
+
+%% use optional labels to link authors explicitly to addresses:
+%% \author[label1,label2]{<author name>}
+%% \address[label1]{<address>}
+%% \address[label2]{<address>}
+
+
+
+
+
+\title{Measuring the effect of COVID-19 related mobility reductions on mental health using Google Search Data and Google COVID-19 Mobility Reports}
+\author{Niels Bosch, Rouven Fricke, Nora Mannheims,\and Hans Marshall, Tobias Mayer}
+
+
+\date{\parbox{\linewidth}{\centering%
+\bigskip
+  
+\small{Erasmus University Rotterdam \\
+M.Sc. Business Analytics and Management\\
+Advanced Statistics and Programming \\
+\vspace{1cm}
+13.09.2021}}}
+
+\maketitle
+
+%%
+%% Start line numbering here if you want
+%%
+%\linenumbers
+
+%% main text
+\newpage
+\section{Introduction}
+\label{S:1}
+
+In December 2019, a new strain of coronavirus emerged in Wuhan, China, which causes the respiratory illness COVID-19. Due to the rapid rise of infections, the World Health Organisation declared a pandemic on March 11th, 2020. As of September 2021, over 4.5 million people have died due to COVID-19 \citep{Anu:2013}.
+
+As countries implemented social distancing rules and hard lockdowns to prevent their health care systems from collapsing, the everyday life of many people was severely disrupted. While the majority of research focuses on the direct effect of COVID-19 on health, less effort has been directed toward the effect of the pandemic on mental health. In addition to the possibility of being infected with a deadly disease, many people faced sudden loneliness, and anxiety due to possible unemployment and financial uncertainty.
+
+Google searches for terms related to mental health issues, such as insomnia, anxiety, depression and suicide can provide valuable insight into the effect of a pandemic and the resulting policy decisions on the mental health of the population. Google Trends is a tool provided by Google that provides information on the frequency with which search terms are used. While search terms related to mental health are not necessarily one-to-one related to the actual mental health status of a user, it does show “relatively uncensored desires for information and thus lacks many of the biases of  traditional self-report surveys.” \citep[p.~567]{Hoerger2020}. Moreover, in the past, Google trends have been used to understand other important phenomena, such as economic indicators or voting behavior.
+
+In the United States, measures to combat the spread of COVID-19 differed in duration and severity, which makes it attractive to instead use actual mobility data to measure the degree to which movement and resulting social contact has decreased. Moreover, using mobility data eliminates the concern of bias due to non-compliance of residents to the government regulations. The Google Community Mobility Reports (GCMR) contains data on movement trends that can be tailored precisely to specific regions and categories, such as retail and recreational, workplace or parks.
+
+This paper is structured as follows: Section 2 explains the objective and the research question of our study. Section 3 continues with surveying the theoretical background.  Lastly, Section 4 describes the data sources, construction of the dataset and the method.
+
+
+
+
+\section{Objective and research question}
+\label{S:2}
+%With rising cases of Covid-19 infections, policies to reduce mobility and social gatherings were a widely used measure \citep{Brauner2021}.
+The aim of this study is to investigate the effect of social distancing and stay-at-home orders on mental health. This is achieved by using GCMR data to measure the change in mobility and Google Trends data to approximate mental health status.
+
+Existing literature that investigates the relationship between Covid-19 and mental health either uses surveys and measures psychological distress by e.g. the Generalized Anxiety Disorder seven-item scale \citep{Spitzer2006} \citep{Zhang2020}, \citep{Devaraj2021} or Google Trends \footnote{\url{https://trends.google.com/trends/?geo=US}} with mental health related search terms \citep{Berger2021}, \citep{Hoerger2020}, \citep{Halford2020}.
+
+We aim to further explore this relationship by mainly analyzing two data sets that have previously not been studied together:
+Firstly, by using %mobility data provided by 
+the Google COVID-19 Community Mobility Reports (GCMR) \footnote{\url{https://www.google.com/covid19/mobility/}} that allows us to measure how mobility has varied over the course of the year 2020. Secondly, we use data from Google Trends about the search frequency of mental health related terms. 
+By combining these two data sets with information about several different COVID-19 related properties like death rates, we want to draw inferences about the impact of reduced mobility on mental health. More specifically, we want to answer the following research question:
+\\
+
+How did stay-at-home orders and the resulting reduction in mobility influence mental health in the United States, as approximated by Google search volume?
+\\
+
+
+\section{Theoretical Background}
+Because of the substantial impact the COVID-19 pandemic had on people, and the possible distress people experienced, our analysis is based on the theory of stress process. The theory describes how life events and sudden occurrences can form a process of stress, which can eventually lead to worsened mental health, such as depression \citep{Pearlin1981}. Loneliness, for instance, can be one of those occurrences that forms a process of stress, in the end possibly causing mental-health-related problems\citep{Wang2017}. An enforced reduction in mobility can thus give people a feeling of loneliness, which causes a stress process, leading to depression and anxiety \citep{Devaraj2021}.
+
+The extent to which these factors impacted individuals’ mental health during the COVID-19 pandemic is still unclear. Some studies already suggest a link between stay-at-home measures of COVID-19 and negative psychological effects on individuals including post-traumatic stress symptoms (PTSD), confusion, and anger \citep{BROOKS2020912}. A survey conducted in China, where the respondents needed to spend 20-24 hours at home during the lookdown period, indicated that more than half of the respondents rated the psychological implications as moderate or severe and around one-third reported moderate-to-severe anxiety symptoms \citep{Wang2020}. 
+
+However, in the United States different measures were implemented on state levels, with varying effects on the mobility of individuals.\citep{Devaraj2021} used google mobility data to investigate if the change in state-level mobility had an influence on changes in reported psychological distress and found evidence for a modest relationship. This implies a link between the strictness of stay-at-home measures and its effect on individuals' mental health. 
+
+Existing empirical research has thus described a positive relation between stay-at-home orders and reduction in mobility and a deterioration in mental health. An association between mental health and mental health-related google searches has also been found; when people have health-related issues, they often use google to search for an answer. A report from Pewinternet (2013) shows that 35\% of US adults turn to google for medical advice \citep{Fox2013}. An increase in mental health-related problems could therefore easily lead to a rise of google searches regarding mental health, since multiple studies indicate that Google search trends are valid and useful for health-related research \citep{Ghosh2021}.
+
+Other studies that investigated Google search trends related to mental health issues and suicide found a decrease right after the first lookdown measures were implemented in the early stages of the COVID-19 pandemic \citep{Halford2020}. This is in line with previous literature that indicated a decrease in suicide rates after a national crises \citep{claassen_carmody_stewart_bossarte_larkin_woodward_trivedi_2010}. However, as suggested by a study regarding the 2003 SARS-outbreak in Hong Kong, after a crisis occured suicide rates tended to increase \citep{Cheung_Chau_Yip2008}. Research that has been done on disaster mental health supports this claim and indicates that emotional distress is pervasive in populations that experience disasters \citep{Pfefferbaum2020}. Therefore, it is important to investigate whether search terms related to mental health issues were googled more frequently after lookdown measures were in place for a longer period. 
+
+This naturally leads us to the following hypothesis, that investigates changes in mobility and its effect on mental health issues in individuals during the COVID-19 pandemic: \\
+
+\textbf{H1:} A decrease in mobility during the COVID-19 pandemic in the US is associated with a positive increase in immediate mental health issues over the course of 10 months. 
+
+
+
+
+\section{Data and Methods}
+\noindent
+
+
+The main data for this paper is obtained from Google Trends and the COVID-19 Google Community Mobility Reports (GCMR), which were made publicly available by Alphabet to facilitate research on COVID-19. The analysis focuses on the United States of America for the period between the 16th of February 2020 until the 31st of December 2020. This period contains the start of the global pandemic and the global spread of the virus without the interference of the vaccination roll-out.\\
+
+The Google Trend data is downloaded with the gtrendsR package in R (Google searches for suicide and suicide risk factors in the early stages of the COVID-19 pandemic) to retrieve the weekly search volume for the period between 16th of February 2020 until the 31st of December 2020 in the United States of America. The search word used for the query is “therapy”, which indicates the mental distress of the individuals. The Google Trend data is pre-processed and normalised by Google individually for each query. The data points are divided by the total search volume of the geography and period it represents to compare the relative popularity. The numbers are subsequently scaled on a range of 0 to 100.\\
+
+The COVID-19 community mobility report from Google is downloaded from Google \footnote{\url {https://www.google.com/covid19/mobility/?hl=en-GB} date: 08.09.2021} for the entire world. The daily data provides information about the social behaviour of the population relative to the pre-pandemic baseline period, which is the median value of the 5-week period from the 3rd of January 2020 to the 6th of February 2020 \footnote{\url{https://support.google.com/covid19-mobility/answer/9824897?hl=en-GB&ref\_topic=9822927}}. The mobility is based on the number of visitors to and the time spent in the five different characterised places, which are “retail and recreation”, “grocery and pharmacy”, “parks”, “transit stations”, “workplaces”, and “residential”. Retail and Recreation data provide information about mobility in restaurants, cafes, and museums. Grocery and Pharmacy data give insights into the mobility in grocery markets, drug stores and pharmacies. Parks data indicate mobility in national parks, beaches, and public gardens. Transit stations data provide information about mobility in transport hubs as subways and train stations. Workplaces data indicate the mobility trends for places of work, and Residential data provide information about the places considered for stay-at-home measures. For the analysis, the data of the United States of America on a national level are used, which are aggregated to a weekly level. The weekly data is combined to an equally weighted index made up of the “workplaces”, “residential”, “parks”, and “retail and recreation” data. These places are assumed to facilitate the most people engaging in personal interactions, which have a positive effect on mental well-being.
+
+Additionally, the daily deaths and Covid cases from the OurWorldinData are aggregated on a weekly level \footnote{\url{https://ourworldindata.org/covid-cases}}, and the weekly Unemployment Insurance claims are downloaded from the United States Department of Labor \footnote{\url{https://oui.doleta.gov/unemploy/claims.asp}}. The Weekly Economic Index (WEI) is taken from the Federal Reserve Bank of New York \footnote{\url{https://www.newyorkfed.org/research/policy/weekly-economic-index}}.
+
+The paper will measure the effect of mobility, which temporarily decreased during the analysed period due to the spread of the COVID-19 pandemic and the respective governmental regulations, on individuals mental health using time-series regression. We used the following model for the analysis:
+
+
+\[
+\Delta GT\_Therapy_i = 
+\small{\beta_0 + \beta_1 Mobility_{i-1} + \beta_2 Death_{i-1} + \beta_4 Unempl_{i-1}}
+\]
+\[
+\hspace{17px}\small{+\beta_5 WEI_{i-1} + \beta_6 SznD_i + \epsilon_i}
+\]
+Where $GT\_therapy_i$ describes the changes in the scaled searches for “therapy” in Google Trends. $Mobility_{i-1}$ indicates the lagged change in the relative mobility change compared to the benchmark period. The variables $Death_{i-1}$ and $Covid_{i-1}$ take the lagged change of the COVID-19 cases and deaths within one week. The $Unemployment_{i-1}$ represents the lagged shift in the number of unemployed people, and $WEI_{i-1}$ is the lagged relative development of the economic index. $SeasonD_i$ is a dummy variable controlling for the season. The exact lags of the independent variable will be defined using Akaike’s Information Criterion (AIC) and Bayesian Information Criterion (BIC) and represent in the formula potentially multiple lagged variables.
+
+The measurement of the effect will be conducted in two different time frames. The first period represents the entire sample from the 16th of February 2020 until the 31st of December 2020 with 46 observations. The second analysis attempts to exclude the very short-term psychological effect of national crises as demonstrated with the effect of the September 11 attacks and the 2003 Sars outbreak in Hong Kong on the suicide rates, which significantly decreased in the short term \citep{claassen_carmody_stewart_bossarte_larkin_woodward_trivedi_2010}, \citep{Cheung_Chau_Yip2008}. To account for this effect, the first one and a half months are excluded, resulting in a sample from the 5th of April in 2020 until the 31st of December in 2020 with 30 observations.
+
+
+\newpage
+%% The Appendices part is started with the command \appendix;
+%% appendix sections are then done as normal sections
+%% \appendix
+
+%% \section{}
+%% \label{}
+
+%% References
+%%
+%% Following citation commands can be used in the body text:
+%% Usage of \citep is as follows:
+%%   \citep{key}          ==>>  [#]
+%%   \citep[chap. 2]{key} ==>>  [#, chap. 2]
+%%   \citept{key}         ==>>  Author [#]
+
+%% References with bibTeX database:
+
+\bibliography{sample.bib}
+\bibliographystyle{apalike}
+
+
+%% Authors are advised to submit their bibtex database files. They are
+%% requested to list a bibtex style file in the manuscript if they do
+%% not want to use model1-num-names.bst.
+
+%% References without bibTeX database:
+
+% \begin{thebibliography}{00}
+
+%% \bibitem must have the following form:
+%%   \bibitem{key}...
+%%
+
+% \bibitem{}
+
+% \end{thebibliography}
+
+
+\end{document}
+
+%%
+%% End of file `elsarticle-template-1-num.tex'.
