@@ -1,0 +1,1451 @@
+"RegionName","week","mean"
+"Alabama","01",0
+"Alabama","02",0
+"Alabama","03",0
+"Alabama","04",0
+"Alabama","05",0
+"Alabama","06",0
+"Alabama","07",0
+"Alabama","08",0
+"Alabama","09",0
+"Alabama","10",0
+"Alabama","11",8.33142857142857
+"Alabama","12",36.2442857142857
+"Alabama","13",48.0828571428571
+"Alabama","14",55.8871428571429
+"Alabama","15",65.74
+"Alabama","16",65.74
+"Alabama","17",65.74
+"Alabama","18",54.5
+"Alabama","19",49.54
+"Alabama","20",49.54
+"Alabama","21",42.9228571428571
+"Alabama","22",37.96
+"Alabama","23",34.26
+"Alabama","24",34.26
+"Alabama","25",34.26
+"Alabama","26",34.26
+"Alabama","27",34.26
+"Alabama","28",28.7
+"Alabama","29",28.7
+"Alaska","01",0
+"Alaska","02",3.97142857142857
+"Alaska","03",5.56
+"Alaska","04",5.56
+"Alaska","05",5.56
+"Alaska","06",7.93857142857143
+"Alaska","07",11.11
+"Alaska","08",11.11
+"Alaska","09",11.11
+"Alaska","10",11.11
+"Alaska","11",12.3014285714286
+"Alaska","12",54.2985714285714
+"Alaska","13",71.6257142857143
+"Alaska","14",84.7885714285714
+"Alaska","15",87.96
+"Alaska","16",87.96
+"Alaska","17",79.6285714285714
+"Alaska","18",68.52
+"Alaska","19",64.5514285714286
+"Alaska","20",61.6428571428571
+"Alaska","21",60.45
+"Alaska","22",54.76
+"Alaska","23",43.2528571428571
+"Alaska","24",41.67
+"Alaska","25",41.67
+"Alaska","26",41.67
+"Alaska","27",41.67
+"Alaska","28",41.67
+"Alaska","29",45.6342857142857
+"Arizona","01",0
+"Arizona","02",0
+"Arizona","03",0
+"Arizona","04",0.794285714285714
+"Arizona","05",5.56
+"Arizona","06",5.56
+"Arizona","07",5.56
+"Arizona","08",5.56
+"Arizona","09",5.56
+"Arizona","10",11.11
+"Arizona","11",11.11
+"Arizona","12",27.7757142857143
+"Arizona","13",33.33
+"Arizona","14",46.0328571428571
+"Arizona","15",57.67
+"Arizona","16",64.81
+"Arizona","17",64.81
+"Arizona","18",67.9871428571429
+"Arizona","19",70.37
+"Arizona","20",61.9042857142857
+"Arizona","21",40.74
+"Arizona","22",40.74
+"Arizona","23",40.74
+"Arizona","24",40.74
+"Arizona","25",40.74
+"Arizona","26",40.74
+"Arizona","27",44.44
+"Arizona","28",44.44
+"Arizona","29",44.44
+"Arkansas","01",0
+"Arkansas","02",0
+"Arkansas","03",0
+"Arkansas","04",0
+"Arkansas","05",0
+"Arkansas","06",0
+"Arkansas","07",0
+"Arkansas","08",0
+"Arkansas","09",0
+"Arkansas","10",0
+"Arkansas","11",8.00285714285714
+"Arkansas","12",35.8442857142857
+"Arkansas","13",41.5342857142857
+"Arkansas","14",46.3
+"Arkansas","15",46.3
+"Arkansas","16",46.3
+"Arkansas","17",49.4714285714286
+"Arkansas","18",51.85
+"Arkansas","19",57.8085714285714
+"Arkansas","20",60.19
+"Arkansas","21",60.19
+"Arkansas","22",60.19
+"Arkansas","23",60.19
+"Arkansas","24",60.19
+"Arkansas","25",60.19
+"Arkansas","26",60.19
+"Arkansas","27",60.19
+"Arkansas","28",60.19
+"Arkansas","29",60.19
+"California","01",0
+"California","02",0
+"California","03",1.19142857142857
+"California","04",2.78
+"California","05",3.57285714285714
+"California","06",8.33
+"California","07",8.33
+"California","08",8.33
+"California","09",8.33
+"California","10",10.9757142857143
+"California","11",28.9685714285714
+"California","12",63.8885714285714
+"California","13",75
+"California","14",75
+"California","15",75
+"California","16",75
+"California","17",75
+"California","18",75
+"California","19",68.6528571428571
+"California","20",60.19
+"California","21",60.19
+"California","22",60.19
+"California","23",60.19
+"California","24",60.19
+"California","25",60.19
+"California","26",60.19
+"California","27",60.19
+"California","28",60.19
+"California","29",60.19
+"Colorado","01",0
+"Colorado","02",0
+"Colorado","03",0
+"Colorado","04",0
+"Colorado","05",0
+"Colorado","06",0
+"Colorado","07",0
+"Colorado","08",0
+"Colorado","09",3.17714285714286
+"Colorado","10",5.56
+"Colorado","11",12.5685714285714
+"Colorado","12",44.9042857142857
+"Colorado","13",68.5214285714286
+"Colorado","14",75.93
+"Colorado","15",75.93
+"Colorado","16",75.93
+"Colorado","17",75.93
+"Colorado","18",67.59
+"Colorado","19",66.2671428571429
+"Colorado","20",62.96
+"Colorado","21",62.96
+"Colorado","22",62.96
+"Colorado","23",62.96
+"Colorado","24",62.96
+"Colorado","25",59.5242857142857
+"Colorado","26",55.1628571428571
+"Colorado","27",52.78
+"Colorado","28",52.78
+"Colorado","29",52.78
+"Connecticut","01",0
+"Connecticut","02",0
+"Connecticut","03",0
+"Connecticut","04",0
+"Connecticut","05",5.56
+"Connecticut","06",5.56
+"Connecticut","07",5.56
+"Connecticut","08",5.56
+"Connecticut","09",9.52428571428571
+"Connecticut","10",11.11
+"Connecticut","11",26.5885714285714
+"Connecticut","12",44.4428571428571
+"Connecticut","13",61.7057142857143
+"Connecticut","14",66.67
+"Connecticut","15",66.67
+"Connecticut","16",66.67
+"Connecticut","17",66.67
+"Connecticut","18",66.67
+"Connecticut","19",66.67
+"Connecticut","20",66.67
+"Connecticut","21",64.02
+"Connecticut","22",62.96
+"Connecticut","23",61.57
+"Connecticut","24",61.57
+"Connecticut","25",60.5842857142857
+"Connecticut","26",60.19
+"Connecticut","27",57.8071428571429
+"Connecticut","28",54.63
+"Connecticut","29",54.63
+"Delaware","01",0
+"Delaware","02",0
+"Delaware","03",0
+"Delaware","04",0
+"Delaware","05",4.76571428571429
+"Delaware","06",6.74714285714286
+"Delaware","07",8.33
+"Delaware","08",8.33
+"Delaware","09",8.33
+"Delaware","10",13.89
+"Delaware","11",23.1457142857143
+"Delaware","12",61.3742857142857
+"Delaware","13",66.14
+"Delaware","14",73.8085714285714
+"Delaware","15",75
+"Delaware","16",75
+"Delaware","17",76.5857142857143
+"Delaware","18",78.7
+"Delaware","19",78.7
+"Delaware","20",78.7
+"Delaware","21",78.7
+"Delaware","22",78.7
+"Delaware","23",73.15
+"Delaware","24",73.15
+"Delaware","25",63.89
+"Delaware","26",63.89
+"Delaware","27",63.0971428571429
+"Delaware","28",62.04
+"Delaware","29",59.39
+"Florida","01",0
+"Florida","02",0
+"Florida","03",0
+"Florida","04",0
+"Florida","05",5.56
+"Florida","06",5.56
+"Florida","07",5.56
+"Florida","08",5.56
+"Florida","09",6.35285714285714
+"Florida","10",11.11
+"Florida","11",15.4742857142857
+"Florida","12",46.0285714285714
+"Florida","13",64.7471428571428
+"Florida","14",69.9742857142857
+"Florida","15",73.15
+"Florida","16",73.15
+"Florida","17",73.15
+"Florida","18",73.15
+"Florida","19",68.52
+"Florida","20",68.52
+"Florida","21",66.67
+"Florida","22",66.67
+"Florida","23",65.2814285714286
+"Florida","24",61.31
+"Florida","25",59.72
+"Florida","26",60.5128571428571
+"Florida","27",61.57
+"Florida","28",61.57
+"Florida","29",61.57
+"Georgia","01",0
+"Georgia","02",0
+"Georgia","03",0
+"Georgia","04",0
+"Georgia","05",0
+"Georgia","06",0
+"Georgia","07",0
+"Georgia","08",0
+"Georgia","09",0
+"Georgia","10",0
+"Georgia","11",16.9328571428571
+"Georgia","12",37.6957142857143
+"Georgia","13",43.52
+"Georgia","14",51.4557142857143
+"Georgia","15",59.26
+"Georgia","16",59.26
+"Georgia","17",60.9828571428571
+"Georgia","18",60.19
+"Georgia","19",60.19
+"Georgia","20",60.19
+"Georgia","21",60.19
+"Georgia","22",56.4814285714286
+"Georgia","23",53.7
+"Georgia","24",53.7
+"Georgia","25",53.7
+"Georgia","26",53.7
+"Georgia","27",48.4142857142857
+"Georgia","28",46.3
+"Georgia","29",46.3
+"Hawaii","01",0
+"Hawaii","02",0
+"Hawaii","03",0
+"Hawaii","04",0
+"Hawaii","05",0
+"Hawaii","06",0
+"Hawaii","07",0
+"Hawaii","08",4.76142857142857
+"Hawaii","09",11.11
+"Hawaii","10",11.11
+"Hawaii","11",13.4928571428571
+"Hawaii","12",19.8414285714286
+"Hawaii","13",49.4685714285714
+"Hawaii","14",74.07
+"Hawaii","15",74.07
+"Hawaii","16",74.07
+"Hawaii","17",74.07
+"Hawaii","18",74.07
+"Hawaii","19",70.8985714285714
+"Hawaii","20",70.37
+"Hawaii","21",70.37
+"Hawaii","22",70.37
+"Hawaii","23",68.52
+"Hawaii","24",68.52
+"Hawaii","25",68.52
+"Hawaii","26",68.52
+"Hawaii","27",68.52
+"Hawaii","28",68.52
+"Hawaii","29",73.2814285714286
+"Idaho","01",0
+"Idaho","02",0
+"Idaho","03",0
+"Idaho","04",0
+"Idaho","05",0
+"Idaho","06",0
+"Idaho","07",0
+"Idaho","08",0
+"Idaho","09",0
+"Idaho","10",0
+"Idaho","11",6.34857142857143
+"Idaho","12",11.11
+"Idaho","13",67.1985714285714
+"Idaho","14",85.19
+"Idaho","15",85.19
+"Idaho","16",85.19
+"Idaho","17",85.19
+"Idaho","18",77.2528571428571
+"Idaho","19",59.26
+"Idaho","20",59.26
+"Idaho","21",59.26
+"Idaho","22",53.7028571428571
+"Idaho","23",39.81
+"Idaho","24",34.7842857142857
+"Idaho","25",22.22
+"Idaho","26",39.0842857142857
+"Idaho","27",45.83
+"Idaho","28",45.83
+"Idaho","29",45.83
+"Illinois","01",0
+"Illinois","02",0
+"Illinois","03",0
+"Illinois","04",1.19142857142857
+"Illinois","05",2.78
+"Illinois","06",3.17714285714286
+"Illinois","07",5.56
+"Illinois","08",5.56
+"Illinois","09",5.56
+"Illinois","10",5.56
+"Illinois","11",9.13
+"Illinois","12",40.87
+"Illinois","13",64.81
+"Illinois","14",64.81
+"Illinois","15",64.81
+"Illinois","16",70.37
+"Illinois","17",70.37
+"Illinois","18",70.37
+"Illinois","19",70.37
+"Illinois","20",70.37
+"Illinois","21",70.37
+"Illinois","22",67.1942857142857
+"Illinois","23",60.8457142857143
+"Illinois","24",59.26
+"Illinois","25",59.26
+"Illinois","26",51.7214285714286
+"Illinois","27",41.67
+"Illinois","28",44.44
+"Illinois","29",44.44
+"Indiana","01",0
+"Indiana","02",0
+"Indiana","03",0
+"Indiana","04",0
+"Indiana","05",0
+"Indiana","06",3.97142857142857
+"Indiana","07",5.56
+"Indiana","08",5.56
+"Indiana","09",5.56
+"Indiana","10",5.56
+"Indiana","11",13.2285714285714
+"Indiana","12",45.7642857142857
+"Indiana","13",60.1814285714286
+"Indiana","14",71.5614285714286
+"Indiana","15",71.1657142857143
+"Indiana","16",59.26
+"Indiana","17",59.26
+"Indiana","18",59.26
+"Indiana","19",56.02
+"Indiana","20",56.02
+"Indiana","21",52.78
+"Indiana","22",52.78
+"Indiana","23",50
+"Indiana","24",48.0157142857143
+"Indiana","25",44.5771428571429
+"Indiana","26",43.52
+"Indiana","27",41.4042857142857
+"Indiana","28",38.89
+"Indiana","29",38.89
+"Iowa","01",0
+"Iowa","02",0
+"Iowa","03",0
+"Iowa","04",0
+"Iowa","05",0
+"Iowa","06",0
+"Iowa","07",0
+"Iowa","08",0
+"Iowa","09",0
+"Iowa","10",4.76571428571429
+"Iowa","11",6.08857142857143
+"Iowa","12",35.45
+"Iowa","13",42.59
+"Iowa","14",46.8242857142857
+"Iowa","15",52.78
+"Iowa","16",52.78
+"Iowa","17",57.5371428571429
+"Iowa","18",58.33
+"Iowa","19",58.33
+"Iowa","20",58.33
+"Iowa","21",58.33
+"Iowa","22",58.33
+"Iowa","23",34.26
+"Iowa","24",31.0842857142857
+"Iowa","25",26.85
+"Iowa","26",26.85
+"Iowa","27",26.85
+"Iowa","28",26.85
+"Iowa","29",26.85
+"Kansas","01",0
+"Kansas","02",0
+"Kansas","03",0
+"Kansas","04",0
+"Kansas","05",0
+"Kansas","06",0
+"Kansas","07",0
+"Kansas","08",0
+"Kansas","09",0
+"Kansas","10",3.97142857142857
+"Kansas","11",5.56
+"Kansas","12",26.1928571428571
+"Kansas","13",39.8842857142857
+"Kansas","14",60.19
+"Kansas","15",71.3
+"Kansas","16",71.3
+"Kansas","17",71.3
+"Kansas","18",76.0571428571428
+"Kansas","19",69.44
+"Kansas","20",69.44
+"Kansas","21",68.2528571428571
+"Kansas","22",66.67
+"Kansas","23",66.67
+"Kansas","24",61.11
+"Kansas","25",61.11
+"Kansas","26",61.11
+"Kansas","27",61.11
+"Kansas","28",61.11
+"Kansas","29",61.11
+"Kentucky","01",0
+"Kentucky","02",0
+"Kentucky","03",0
+"Kentucky","04",0
+"Kentucky","05",0
+"Kentucky","06",0
+"Kentucky","07",0
+"Kentucky","08",0
+"Kentucky","09",0
+"Kentucky","10",3.96857142857143
+"Kentucky","11",21.6957142857143
+"Kentucky","12",44.9742857142857
+"Kentucky","13",65.3442857142857
+"Kentucky","14",77.2471428571428
+"Kentucky","15",79.63
+"Kentucky","16",79.63
+"Kentucky","17",79.63
+"Kentucky","18",79.63
+"Kentucky","19",79.63
+"Kentucky","20",75.93
+"Kentucky","21",67.2
+"Kentucky","22",55.56
+"Kentucky","23",55.56
+"Kentucky","24",55.56
+"Kentucky","25",55.56
+"Kentucky","26",55.56
+"Kentucky","27",39.81
+"Kentucky","28",39.81
+"Kentucky","29",39.81
+"Louisiana","01",0
+"Louisiana","02",0
+"Louisiana","03",0
+"Louisiana","04",0
+"Louisiana","05",0
+"Louisiana","06",0
+"Louisiana","07",0
+"Louisiana","08",0
+"Louisiana","09",0
+"Louisiana","10",0
+"Louisiana","11",18.7828571428571
+"Louisiana","12",43.2528571428571
+"Louisiana","13",57.2742857142857
+"Louisiana","14",56.48
+"Louisiana","15",56.48
+"Louisiana","16",56.48
+"Louisiana","17",56.48
+"Louisiana","18",56.48
+"Louisiana","19",56.48
+"Louisiana","20",54.8942857142857
+"Louisiana","21",52.78
+"Louisiana","22",52.78
+"Louisiana","23",52.78
+"Louisiana","24",52.78
+"Louisiana","25",52.78
+"Louisiana","26",52.78
+"Louisiana","27",52.78
+"Louisiana","28",52.78
+"Louisiana","29",53.5742857142857
+"Maine","01",0
+"Maine","02",0
+"Maine","03",0
+"Maine","04",0
+"Maine","05",0
+"Maine","06",0
+"Maine","07",0
+"Maine","08",0
+"Maine","09",0
+"Maine","10",5.56
+"Maine","11",14.6857142857143
+"Maine","12",33.4671428571429
+"Maine","13",37.6957142857143
+"Maine","14",55.1542857142857
+"Maine","15",69.44
+"Maine","16",69.44
+"Maine","17",69.44
+"Maine","18",69.44
+"Maine","19",69.44
+"Maine","20",67.59
+"Maine","21",70.7671428571429
+"Maine","22",72.62
+"Maine","23",69.44
+"Maine","24",69.44
+"Maine","25",69.44
+"Maine","26",71.3
+"Maine","27",71.3
+"Maine","28",71.3
+"Maine","29",71.3
+"Maryland","01",0
+"Maryland","02",0
+"Maryland","03",0
+"Maryland","04",0
+"Maryland","05",0
+"Maryland","06",0
+"Maryland","07",0
+"Maryland","08",0
+"Maryland","09",0
+"Maryland","10",0
+"Maryland","11",12.7
+"Maryland","12",50.9242857142857
+"Maryland","13",57.41
+"Maryland","14",75.93
+"Maryland","15",81.48
+"Maryland","16",81.48
+"Maryland","17",81.48
+"Maryland","18",81.48
+"Maryland","19",81.48
+"Maryland","20",77.7771428571429
+"Maryland","21",75
+"Maryland","22",75
+"Maryland","23",65.74
+"Maryland","24",57.54
+"Maryland","25",48.61
+"Maryland","26",48.61
+"Maryland","27",37.96
+"Maryland","28",37.96
+"Maryland","29",39.9457142857143
+"Massachusetts","01",0
+"Massachusetts","02",0
+"Massachusetts","03",0
+"Massachusetts","04",0
+"Massachusetts","05",0
+"Massachusetts","06",0
+"Massachusetts","07",0
+"Massachusetts","08",0
+"Massachusetts","09",0
+"Massachusetts","10",3.97142857142857
+"Massachusetts","11",13.4928571428571
+"Massachusetts","12",26.1885714285714
+"Massachusetts","13",47.2228571428571
+"Massachusetts","14",55.56
+"Massachusetts","15",55.56
+"Massachusetts","16",55.56
+"Massachusetts","17",54.3685714285714
+"Massachusetts","18",52.78
+"Massachusetts","19",54.7657142857143
+"Massachusetts","20",55.56
+"Massachusetts","21",52.78
+"Massachusetts","22",52.78
+"Massachusetts","23",49.07
+"Massachusetts","24",49.07
+"Massachusetts","25",49.07
+"Massachusetts","26",47.22
+"Massachusetts","27",51.1914285714286
+"Massachusetts","28",55.56
+"Massachusetts","29",58.33
+"Michigan","01",0
+"Michigan","02",0
+"Michigan","03",0
+"Michigan","04",2.38285714285714
+"Michigan","05",7.93428571428571
+"Michigan","06",8.33
+"Michigan","07",8.33
+"Michigan","08",8.33
+"Michigan","09",8.33
+"Michigan","10",8.33
+"Michigan","11",20.5
+"Michigan","12",53.8357142857143
+"Michigan","13",72.8871428571429
+"Michigan","14",75.93
+"Michigan","15",75.93
+"Michigan","16",75.93
+"Michigan","17",74.34
+"Michigan","18",73.81
+"Michigan","19",75.93
+"Michigan","20",75.93
+"Michigan","21",73.0128571428571
+"Michigan","22",72.22
+"Michigan","23",53.1742857142857
+"Michigan","24",46.3
+"Michigan","25",46.3
+"Michigan","26",46.3
+"Michigan","27",47.6214285714286
+"Michigan","28",48.15
+"Michigan","29",48.15
+"Minnesota","01",0
+"Minnesota","02",0
+"Minnesota","03",0
+"Minnesota","04",2.38285714285714
+"Minnesota","05",7.53857142857143
+"Minnesota","06",8.33
+"Minnesota","07",8.33
+"Minnesota","08",8.33
+"Minnesota","09",8.33
+"Minnesota","10",11.5071428571429
+"Minnesota","11",23.0171428571429
+"Minnesota","12",53.7014285714286
+"Minnesota","13",66.2671428571429
+"Minnesota","14",76.85
+"Minnesota","15",72.8857142857143
+"Minnesota","16",71.3
+"Minnesota","17",71.3
+"Minnesota","18",71.3
+"Minnesota","19",67.59
+"Minnesota","20",64.4185714285714
+"Minnesota","21",60.19
+"Minnesota","22",60.19
+"Minnesota","23",60.19
+"Minnesota","24",55.5542857142857
+"Minnesota","25",53.7
+"Minnesota","26",53.7
+"Minnesota","27",53.7
+"Minnesota","28",53.7
+"Minnesota","29",53.7
+"Mississippi","01",0
+"Mississippi","02",0
+"Mississippi","03",0
+"Mississippi","04",0
+"Mississippi","05",0
+"Mississippi","06",0
+"Mississippi","07",0
+"Mississippi","08",0
+"Mississippi","09",0
+"Mississippi","10",0
+"Mississippi","11",11.9071428571429
+"Mississippi","12",26.7185714285714
+"Mississippi","13",31.48
+"Mississippi","14",44.1785714285714
+"Mississippi","15",61.11
+"Mississippi","16",61.11
+"Mississippi","17",62.6957142857143
+"Mississippi","18",64.81
+"Mississippi","19",64.81
+"Mississippi","20",64.81
+"Mississippi","21",64.81
+"Mississippi","22",64.81
+"Mississippi","23",49.07
+"Mississippi","24",49.07
+"Mississippi","25",49.07
+"Mississippi","26",49.07
+"Mississippi","27",49.07
+"Mississippi","28",49.2714285714286
+"Mississippi","29",46.3628571428571
+"Missouri","01",0
+"Missouri","02",0
+"Missouri","03",0
+"Missouri","04",0
+"Missouri","05",0
+"Missouri","06",0
+"Missouri","07",5.56
+"Missouri","08",5.56
+"Missouri","09",5.56
+"Missouri","10",5.56
+"Missouri","11",11.3128571428571
+"Missouri","12",30.3557142857143
+"Missouri","13",41.4042857142857
+"Missouri","14",41.67
+"Missouri","15",62.96
+"Missouri","16",62.96
+"Missouri","17",62.96
+"Missouri","18",62.96
+"Missouri","19",45.83
+"Missouri","20",45.83
+"Missouri","21",44.2442857142857
+"Missouri","22",43.98
+"Missouri","23",43.98
+"Missouri","24",43.98
+"Missouri","25",30.4871428571429
+"Missouri","26",21.76
+"Missouri","27",12.04
+"Missouri","28",9.26
+"Missouri","29",9.26
+"Montana","01",0
+"Montana","02",0
+"Montana","03",0
+"Montana","04",0
+"Montana","05",0
+"Montana","06",0
+"Montana","07",0
+"Montana","08",0
+"Montana","09",7.14
+"Montana","10",9.91857142857143
+"Montana","11",14.6814285714286
+"Montana","12",45.2371428571429
+"Montana","13",55.82
+"Montana","14",76.85
+"Montana","15",76.85
+"Montana","16",76.85
+"Montana","17",76.3214285714286
+"Montana","18",71.3
+"Montana","19",70.2371428571429
+"Montana","20",69.44
+"Montana","21",69.44
+"Montana","22",69.44
+"Montana","23",54.63
+"Montana","24",54.63
+"Montana","25",54.63
+"Montana","26",54.63
+"Montana","27",54.63
+"Montana","28",54.63
+"Montana","29",54.63
+"Nebraska","01",0
+"Nebraska","02",0
+"Nebraska","03",0
+"Nebraska","04",0
+"Nebraska","05",0
+"Nebraska","06",0
+"Nebraska","07",0
+"Nebraska","08",0
+"Nebraska","09",0
+"Nebraska","10",0
+"Nebraska","11",5.55428571428571
+"Nebraska","12",34.6571428571429
+"Nebraska","13",48.94
+"Nebraska","14",60.3142857142857
+"Nebraska","15",65.0785714285714
+"Nebraska","16",68.52
+"Nebraska","17",68.52
+"Nebraska","18",65.7414285714286
+"Nebraska","19",63.89
+"Nebraska","20",63.89
+"Nebraska","21",63.89
+"Nebraska","22",63.89
+"Nebraska","23",44.3128571428571
+"Nebraska","24",43.52
+"Nebraska","25",43.52
+"Nebraska","26",43.52
+"Nebraska","27",43.52
+"Nebraska","28",43.52
+"Nebraska","29",39.5514285714286
+"Nevada","01",0
+"Nevada","02",2.11428571428571
+"Nevada","03",3.7
+"Nevada","04",3.7
+"Nevada","05",3.7
+"Nevada","06",3.7
+"Nevada","07",3.7
+"Nevada","08",3.7
+"Nevada","09",6.08285714285714
+"Nevada","10",13.2242857142857
+"Nevada","11",16.1328571428571
+"Nevada","12",30.4257142857143
+"Nevada","13",49.47
+"Nevada","14",59.2585714285714
+"Nevada","15",61.11
+"Nevada","16",61.11
+"Nevada","17",61.11
+"Nevada","18",57.9385714285714
+"Nevada","19",56.35
+"Nevada","20",53.7
+"Nevada","21",53.7
+"Nevada","22",52.5128571428571
+"Nevada","23",48.81
+"Nevada","24",47.22
+"Nevada","25",47.22
+"Nevada","26",47.22
+"Nevada","27",47.22
+"Nevada","28",48.0128571428571
+"Nevada","29",49.07
+"New Hampshire","01",0
+"New Hampshire","02",0
+"New Hampshire","03",0
+"New Hampshire","04",0
+"New Hampshire","05",3.17714285714286
+"New Hampshire","06",5.56
+"New Hampshire","07",5.56
+"New Hampshire","08",5.56
+"New Hampshire","09",5.56
+"New Hampshire","10",5.56
+"New Hampshire","11",8.73142857142857
+"New Hampshire","12",37.3028571428571
+"New Hampshire","13",52.3785714285714
+"New Hampshire","14",74.47
+"New Hampshire","15",76.85
+"New Hampshire","16",76.85
+"New Hampshire","17",76.85
+"New Hampshire","18",76.85
+"New Hampshire","19",76.85
+"New Hampshire","20",73.15
+"New Hampshire","21",73.15
+"New Hampshire","22",73.15
+"New Hampshire","23",73.15
+"New Hampshire","24",67.59
+"New Hampshire","25",45.8957142857143
+"New Hampshire","26",39.81
+"New Hampshire","27",36.11
+"New Hampshire","28",36.11
+"New Hampshire","29",36.11
+"New Jersey","01",0
+"New Jersey","02",0
+"New Jersey","03",0
+"New Jersey","04",0
+"New Jersey","05",0.794285714285714
+"New Jersey","06",5.56
+"New Jersey","07",5.56
+"New Jersey","08",5.56
+"New Jersey","09",5.56
+"New Jersey","10",5.56
+"New Jersey","11",11.9085714285714
+"New Jersey","12",44.3142857142857
+"New Jersey","13",57.41
+"New Jersey","14",57.41
+"New Jersey","15",57.41
+"New Jersey","16",62.96
+"New Jersey","17",62.96
+"New Jersey","18",62.96
+"New Jersey","19",62.96
+"New Jersey","20",62.96
+"New Jersey","21",62.0371428571429
+"New Jersey","22",62.04
+"New Jersey","23",62.04
+"New Jersey","24",54.1028571428571
+"New Jersey","25",52.78
+"New Jersey","26",53.9714285714286
+"New Jersey","27",55.56
+"New Jersey","28",48.15
+"New Jersey","29",48.15
+"New Mexico","01",0
+"New Mexico","02",0
+"New Mexico","03",0
+"New Mexico","04",0
+"New Mexico","05",0
+"New Mexico","06",0
+"New Mexico","07",0
+"New Mexico","08",0
+"New Mexico","09",0
+"New Mexico","10",0
+"New Mexico","11",11.1128571428571
+"New Mexico","12",51.5857142857143
+"New Mexico","13",66.2714285714286
+"New Mexico","14",73.15
+"New Mexico","15",73.15
+"New Mexico","16",77.9071428571429
+"New Mexico","17",78.7
+"New Mexico","18",78.7
+"New Mexico","19",78.7
+"New Mexico","20",77.1142857142857
+"New Mexico","21",75
+"New Mexico","22",75
+"New Mexico","23",75
+"New Mexico","24",75
+"New Mexico","25",75
+"New Mexico","26",75
+"New Mexico","27",75
+"New Mexico","28",75
+"New Mexico","29",75
+"New York","01",0
+"New York","02",0
+"New York","03",0
+"New York","04",0
+"New York","05",0
+"New York","06",0
+"New York","07",0
+"New York","08",0
+"New York","09",0.794285714285714
+"New York","10",5.56
+"New York","11",19.5757142857143
+"New York","12",48.2785714285714
+"New York","13",68.52
+"New York","14",68.52
+"New York","15",72.4842857142857
+"New York","16",74.07
+"New York","17",74.07
+"New York","18",74.07
+"New York","19",74.07
+"New York","20",71.6914285714286
+"New York","21",68.52
+"New York","22",68.52
+"New York","23",68.52
+"New York","24",66.67
+"New York","25",62.5
+"New York","26",58.7971428571429
+"New York","27",56.02
+"New York","28",55.3557142857143
+"New York","29",53.24
+"North Carolina","01",0
+"North Carolina","02",0
+"North Carolina","03",0
+"North Carolina","04",0
+"North Carolina","05",0
+"North Carolina","06",0
+"North Carolina","07",0
+"North Carolina","08",0
+"North Carolina","09",0
+"North Carolina","10",0
+"North Carolina","11",19.0442857142857
+"North Carolina","12",43.7814285714286
+"North Carolina","13",57.0085714285714
+"North Carolina","14",68.52
+"North Carolina","15",68.52
+"North Carolina","16",68.52
+"North Carolina","17",67.3285714285714
+"North Carolina","18",64.6828571428571
+"North Carolina","19",63.4914285714286
+"North Carolina","20",61.7728571428571
+"North Carolina","21",57.8071428571429
+"North Carolina","22",54.63
+"North Carolina","23",54.63
+"North Carolina","24",54.63
+"North Carolina","25",54.63
+"North Carolina","26",54.63
+"North Carolina","27",54.63
+"North Carolina","28",54.63
+"North Carolina","29",54.63
+"North Dakota","01",0
+"North Dakota","02",0
+"North Dakota","03",0
+"North Dakota","04",0
+"North Dakota","05",3.97142857142857
+"North Dakota","06",5.56
+"North Dakota","07",5.56
+"North Dakota","08",5.56
+"North Dakota","09",5.56
+"North Dakota","10",5.56
+"North Dakota","11",11.1142857142857
+"North Dakota","12",28.4371428571429
+"North Dakota","13",34.26
+"North Dakota","14",34.26
+"North Dakota","15",46.1671428571429
+"North Dakota","16",50.93
+"North Dakota","17",50.93
+"North Dakota","18",49.34
+"North Dakota","19",42.4585714285714
+"North Dakota","20",33.33
+"North Dakota","21",33.33
+"North Dakota","22",33.33
+"North Dakota","23",29.63
+"North Dakota","24",29.63
+"North Dakota","25",29.63
+"North Dakota","26",29.63
+"North Dakota","27",29.63
+"North Dakota","28",29.63
+"North Dakota","29",29.63
+"Ohio","01",0
+"Ohio","02",0
+"Ohio","03",0
+"Ohio","04",3.17714285714286
+"Ohio","05",5.56
+"Ohio","06",5.56
+"Ohio","07",5.56
+"Ohio","08",5.56
+"Ohio","09",10.32
+"Ohio","10",15.4785714285714
+"Ohio","11",26.8514285714286
+"Ohio","12",46.9585714285714
+"Ohio","13",68.52
+"Ohio","14",68.52
+"Ohio","15",68.52
+"Ohio","16",68.52
+"Ohio","17",68.52
+"Ohio","18",64.2857142857143
+"Ohio","19",61.11
+"Ohio","20",61.11
+"Ohio","21",58.4671428571429
+"Ohio","22",52.6442857142857
+"Ohio","23",51.85
+"Ohio","24",51.85
+"Ohio","25",51.85
+"Ohio","26",51.85
+"Ohio","27",51.85
+"Ohio","28",51.85
+"Ohio","29",51.85
+"Oklahoma","01",0
+"Oklahoma","02",0
+"Oklahoma","03",0
+"Oklahoma","04",0
+"Oklahoma","05",0
+"Oklahoma","06",0
+"Oklahoma","07",0
+"Oklahoma","08",0
+"Oklahoma","09",0
+"Oklahoma","10",2.38285714285714
+"Oklahoma","11",7.93857142857143
+"Oklahoma","12",26.4528571428571
+"Oklahoma","13",49.2071428571429
+"Oklahoma","14",52.78
+"Oklahoma","15",52.78
+"Oklahoma","16",52.78
+"Oklahoma","17",42.8585714285714
+"Oklahoma","18",29.63
+"Oklahoma","19",26.4542857142857
+"Oklahoma","20",19.0442857142857
+"Oklahoma","21",14.81
+"Oklahoma","22",14.81
+"Oklahoma","23",14.81
+"Oklahoma","24",14.81
+"Oklahoma","25",14.81
+"Oklahoma","26",14.81
+"Oklahoma","27",14.81
+"Oklahoma","28",14.81
+"Oklahoma","29",14.81
+"Oregon","01",0
+"Oregon","02",0
+"Oregon","03",0
+"Oregon","04",0
+"Oregon","05",0
+"Oregon","06",0
+"Oregon","07",0
+"Oregon","08",0
+"Oregon","09",2.38285714285714
+"Oregon","10",5.56
+"Oregon","11",5.56
+"Oregon","12",42.46
+"Oregon","13",58.9942857142857
+"Oregon","14",70.37
+"Oregon","15",70.37
+"Oregon","16",70.37
+"Oregon","17",70.37
+"Oregon","18",70.37
+"Oregon","19",65.6042857142857
+"Oregon","20",64.0171428571429
+"Oregon","21",62.96
+"Oregon","22",62.96
+"Oregon","23",50.9942857142857
+"Oregon","24",43.06
+"Oregon","25",43.06
+"Oregon","26",43.06
+"Oregon","27",43.06
+"Oregon","28",43.06
+"Oregon","29",46.0314285714286
+"Pennsylvania","01",0
+"Pennsylvania","02",0
+"Pennsylvania","03",0
+"Pennsylvania","04",0
+"Pennsylvania","05",0
+"Pennsylvania","06",0
+"Pennsylvania","07",0
+"Pennsylvania","08",0
+"Pennsylvania","09",7.93571428571429
+"Pennsylvania","10",11.11
+"Pennsylvania","11",19.4457142857143
+"Pennsylvania","12",39.2871428571429
+"Pennsylvania","13",59.72
+"Pennsylvania","14",64.02
+"Pennsylvania","15",65.74
+"Pennsylvania","16",65.74
+"Pennsylvania","17",62.04
+"Pennsylvania","18",62.04
+"Pennsylvania","19",60.6514285714286
+"Pennsylvania","20",58.8
+"Pennsylvania","21",58.8
+"Pennsylvania","22",56.8157142857143
+"Pennsylvania","23",49.8028571428571
+"Pennsylvania","24",43.98
+"Pennsylvania","25",43.98
+"Pennsylvania","26",43.98
+"Pennsylvania","27",42.5914285714286
+"Pennsylvania","28",40.74
+"Pennsylvania","29",45.2371428571429
+"South Carolina","01",0
+"South Carolina","02",0
+"South Carolina","03",0
+"South Carolina","04",0
+"South Carolina","05",0
+"South Carolina","06",0
+"South Carolina","07",0
+"South Carolina","08",0
+"South Carolina","09",7.93571428571429
+"South Carolina","10",11.11
+"South Carolina","11",13.0942857142857
+"South Carolina","12",39.0242857142857
+"South Carolina","13",47.6171428571429
+"South Carolina","14",60.5814285714286
+"South Carolina","15",70.1057142857143
+"South Carolina","16",70.37
+"South Carolina","17",66.67
+"South Carolina","18",61.9085714285714
+"South Carolina","19",51.85
+"South Carolina","20",51.85
+"South Carolina","21",50.2642857142857
+"South Carolina","22",46.1642857142857
+"South Carolina","23",45.37
+"South Carolina","24",32.1414285714286
+"South Carolina","25",22.22
+"South Carolina","26",22.22
+"South Carolina","27",22.22
+"South Carolina","28",22.22
+"South Carolina","29",22.22
+"South Dakota","01",0
+"South Dakota","02",0
+"South Dakota","03",0
+"South Dakota","04",0
+"South Dakota","05",0
+"South Dakota","06",0
+"South Dakota","07",0
+"South Dakota","08",0
+"South Dakota","09",6.34857142857143
+"South Dakota","10",12.3
+"South Dakota","11",24.3357142857143
+"South Dakota","12",35.19
+"South Dakota","13",57.41
+"South Dakota","14",57.41
+"South Dakota","15",59.26
+"South Dakota","16",59.26
+"South Dakota","17",59.26
+"South Dakota","18",34.9228571428571
+"South Dakota","19",22.22
+"South Dakota","20",22.22
+"South Dakota","21",22.22
+"South Dakota","22",22.22
+"South Dakota","23",22.22
+"South Dakota","24",22.22
+"South Dakota","25",22.22
+"South Dakota","26",22.22
+"South Dakota","27",22.22
+"South Dakota","28",22.22
+"South Dakota","29",22.22
+"Tennessee","01",0
+"Tennessee","02",0
+"Tennessee","03",0
+"Tennessee","04",0
+"Tennessee","05",0
+"Tennessee","06",0
+"Tennessee","07",0
+"Tennessee","08",0
+"Tennessee","09",0
+"Tennessee","10",3.17714285714286
+"Tennessee","11",13.0985714285714
+"Tennessee","12",41.1385714285714
+"Tennessee","13",58.33
+"Tennessee","14",62.96
+"Tennessee","15",62.96
+"Tennessee","16",62.96
+"Tennessee","17",62.96
+"Tennessee","18",57.4085714285714
+"Tennessee","19",53.5757142857143
+"Tennessee","20",50.93
+"Tennessee","21",48.9457142857143
+"Tennessee","22",46.3
+"Tennessee","23",46.3
+"Tennessee","24",46.3
+"Tennessee","25",46.3
+"Tennessee","26",46.3
+"Tennessee","27",46.3
+"Tennessee","28",46.3
+"Tennessee","29",46.3
+"Texas","01",0
+"Texas","02",0
+"Texas","03",0
+"Texas","04",0
+"Texas","05",2.38285714285714
+"Texas","06",2.78
+"Texas","07",2.78
+"Texas","08",2.78
+"Texas","09",2.78
+"Texas","10",2.78
+"Texas","11",10.5171428571429
+"Texas","12",36.9028571428571
+"Texas","13",55.1557142857143
+"Texas","14",71.2971428571429
+"Texas","15",72.69
+"Texas","16",72.69
+"Texas","17",71.1
+"Texas","18",68.1871428571429
+"Texas","19",66.6014285714286
+"Texas","20",65.28
+"Texas","21",62.1028571428571
+"Texas","22",56.1485714285714
+"Texas","23",45.2342857142857
+"Texas","24",44.44
+"Texas","25",44.44
+"Texas","26",55.29
+"Texas","27",55.9528571428571
+"Texas","28",56.02
+"Texas","29",56.02
+"Utah","01",0
+"Utah","02",0
+"Utah","03",0
+"Utah","04",0
+"Utah","05",0
+"Utah","06",0
+"Utah","07",0
+"Utah","08",0
+"Utah","09",5.56
+"Utah","10",8.73142857142857
+"Utah","11",11.11
+"Utah","12",38.3614285714286
+"Utah","13",42.3257142857143
+"Utah","14",51.85
+"Utah","15",51.85
+"Utah","16",49.4714285714286
+"Utah","17",46.3
+"Utah","18",43.5185714285714
+"Utah","19",39.81
+"Utah","20",38.7528571428571
+"Utah","21",36.11
+"Utah","22",40.0814285714286
+"Utah","23",41.67
+"Utah","24",39.8828571428571
+"Utah","25",37.5
+"Utah","26",37.5
+"Utah","27",37.5
+"Utah","28",37.5
+"Utah","29",34.3242857142857
+"Vermont","01",0
+"Vermont","02",0
+"Vermont","03",0
+"Vermont","04",0
+"Vermont","05",4.76571428571429
+"Vermont","06",5.56
+"Vermont","07",5.56
+"Vermont","08",5.56
+"Vermont","09",5.56
+"Vermont","10",8.73142857142857
+"Vermont","11",23.0157142857143
+"Vermont","12",53.3057142857143
+"Vermont","13",73.6814285714286
+"Vermont","14",75.93
+"Vermont","15",75.93
+"Vermont","16",75.93
+"Vermont","17",72.22
+"Vermont","18",72.22
+"Vermont","19",69.5771428571429
+"Vermont","20",68.52
+"Vermont","21",68.52
+"Vermont","22",68.52
+"Vermont","23",65.74
+"Vermont","24",65.74
+"Vermont","25",65.74
+"Vermont","26",65.74
+"Vermont","27",65.74
+"Vermont","28",65.74
+"Vermont","29",65.74
+"Virgin Islands","01",0
+"Virgin Islands","02",0
+"Virgin Islands","03",0
+"Virgin Islands","04",0
+"Virgin Islands","05",0
+"Virgin Islands","06",0
+"Virgin Islands","07",0
+"Virgin Islands","08",0
+"Virgin Islands","09",0
+"Virgin Islands","10",0
+"Virgin Islands","11",3.57
+"Virgin Islands","12",18.6485714285714
+"Virgin Islands","13",53.7042857142857
+"Virgin Islands","14",57.41
+"Virgin Islands","15",57.41
+"Virgin Islands","16",57.41
+"Virgin Islands","17",57.41
+"Virgin Islands","18",57.41
+"Virgin Islands","19",37.04
+"Virgin Islands","20",37.04
+"Virgin Islands","21",37.04
+"Virgin Islands","22",37.04
+"Virgin Islands","23",33.33
+"Virgin Islands","24",33.33
+"Virgin Islands","25",33.33
+"Virgin Islands","26",33.33
+"Virgin Islands","27",33.33
+"Virgin Islands","28",39.6785714285714
+"Virgin Islands","29",44.44
+"Virginia","01",0
+"Virginia","02",0
+"Virginia","03",0
+"Virginia","04",0
+"Virginia","05",0
+"Virginia","06",0
+"Virginia","07",0
+"Virginia","08",0
+"Virginia","09",0
+"Virginia","10",1.58857142857143
+"Virginia","11",15.08
+"Virginia","12",33.33
+"Virginia","13",52.7785714285714
+"Virginia","14",68.52
+"Virginia","15",68.52
+"Virginia","16",68.52
+"Virginia","17",68.52
+"Virginia","18",71.3
+"Virginia","19",71.3
+"Virginia","20",68.1242857142857
+"Virginia","21",63.89
+"Virginia","22",63.89
+"Virginia","23",62.1028571428571
+"Virginia","24",59.72
+"Virginia","25",59.72
+"Virginia","26",59.72
+"Virginia","27",54.0985714285714
+"Virginia","28",51.85
+"Virginia","29",51.85
+"Washington","01",0
+"Washington","02",0
+"Washington","03",0
+"Washington","04",0
+"Washington","05",0
+"Washington","06",0
+"Washington","07",0
+"Washington","08",0
+"Washington","09",1.58857142857143
+"Washington","10",10.1885714285714
+"Washington","11",18.9828571428571
+"Washington","12",43.7828571428571
+"Washington","13",64.9471428571429
+"Washington","14",65.74
+"Washington","15",65.74
+"Washington","16",65.74
+"Washington","17",65.74
+"Washington","18",65.74
+"Washington","19",58.5971428571429
+"Washington","20",57.87
+"Washington","21",57.87
+"Washington","22",57.87
+"Washington","23",50.46
+"Washington","24",50.46
+"Washington","25",47.2857142857143
+"Washington","26",39.35
+"Washington","27",39.35
+"Washington","28",39.35
+"Washington","29",39.35
+"West Virginia","01",0
+"West Virginia","02",0
+"West Virginia","03",0
+"West Virginia","04",0
+"West Virginia","05",0
+"West Virginia","06",0
+"West Virginia","07",0
+"West Virginia","08",0
+"West Virginia","09",0
+"West Virginia","10",0
+"West Virginia","11",14.2871428571429
+"West Virginia","12",34.13
+"West Virginia","13",68.52
+"West Virginia","14",74.07
+"West Virginia","15",74.07
+"West Virginia","16",74.07
+"West Virginia","17",74.07
+"West Virginia","18",71.9557142857143
+"West Virginia","19",63.89
+"West Virginia","20",63.89
+"West Virginia","21",60.7128571428571
+"West Virginia","22",58.33
+"West Virginia","23",58.33
+"West Virginia","24",58.33
+"West Virginia","25",58.33
+"West Virginia","26",58.33
+"West Virginia","27",50.3942857142857
+"West Virginia","28",47.22
+"West Virginia","29",56.7428571428571
+"Wisconsin","01",0
+"Wisconsin","02",0
+"Wisconsin","03",2.38285714285714
+"Wisconsin","04",5.56
+"Wisconsin","05",5.56
+"Wisconsin","06",5.56
+"Wisconsin","07",5.56
+"Wisconsin","08",5.56
+"Wisconsin","09",5.56
+"Wisconsin","10",5.56
+"Wisconsin","11",7.14285714285714
+"Wisconsin","12",39.02
+"Wisconsin","13",60.8442857142857
+"Wisconsin","14",67.59
+"Wisconsin","15",67.59
+"Wisconsin","16",69.9728571428572
+"Wisconsin","17",68.7842857142857
+"Wisconsin","18",62.6985714285714
+"Wisconsin","19",61.11
+"Wisconsin","20",54.2957142857143
+"Wisconsin","21",49.1385714285714
+"Wisconsin","22",36.7042857142857
+"Wisconsin","23",34.72
+"Wisconsin","24",34.72
+"Wisconsin","25",25
+"Wisconsin","26",30.5542857142857
+"Wisconsin","27",34.72
+"Wisconsin","28",34.72
+"Wisconsin","29",34.72
+"Wyoming","01",0
+"Wyoming","02",0
+"Wyoming","03",0
+"Wyoming","04",0
+"Wyoming","05",0
+"Wyoming","06",4.76571428571429
+"Wyoming","07",5.56
+"Wyoming","08",5.56
+"Wyoming","09",5.56
+"Wyoming","10",11.11
+"Wyoming","11",11.11
+"Wyoming","12",27.6457142857143
+"Wyoming","13",41.7971428571429
+"Wyoming","14",46.8228571428571
+"Wyoming","15",52.38
+"Wyoming","16",58.33
+"Wyoming","17",58.33
+"Wyoming","18",58.33
+"Wyoming","19",56.7442857142857
+"Wyoming","20",51.5885714285714
+"Wyoming","21",50
+"Wyoming","22",53.9714285714286
+"Wyoming","23",55.56
+"Wyoming","24",55.56
+"Wyoming","25",37.04
+"Wyoming","26",37.04
+"Wyoming","27",37.04
+"Wyoming","28",37.04
+"Wyoming","29",37.04
