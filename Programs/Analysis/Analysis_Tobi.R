@@ -26,7 +26,11 @@ CorMatrix <- rcorr(as.matrix(DfFinalLag_2[, c("Recreation_L1","Grocery_L1","Tran
 mdlBasic <- GSV_index ~ Recreation_L1 + Grocery_L1 + Transit_L1 + Parks_L1 + Workplace_L1
 mdlBasicControll <- GSV_index ~ Recreation_L1 + Grocery_L1 + Transit_L1 + Parks_L1 + Workplace_L1 + NCases_L1 + NDeaths_L1 + Drug_death_L1 + GSV_workout_L1 + Unemplyment_claims_L1 + SP_L1
 
-stargazer(DfFinalLag_2, type="text")
+dfForSummaryStats <- DfFinalLag_2[ c("WeekOfYear", "GSV_index", "Recreation_L1", "Grocery_L1", "Transit_L1", "Parks_L1",
+                                   "Workplace_L1", "NCases_L1", "NDeaths_L1", "Drug_death_L1", "GSV_workout_L1", 
+                                   "Unemplyment_claims_L1", "SP_L1")]
+
+stargazer(dfForSummaryStats)
 ### Lag 1
 
 # Pooled
@@ -133,6 +137,20 @@ P13 <- qplot(sample = DfFinalLag_2$SP_L1, stat="qq")
 require(gridExtra)
 grid.arrange(P1, P2, P3, P4, P5, P6, P7, P8, P9, P10, P11, P12, P13, 
              ncol = 4, nrow= 4)
+
+s1 <- shapiro.test(DfFinalLag_2$GSV_index)
+s2 <- shapiro.test(DfFinalLag_2$Recreation_L1)
+s3<-shapiro.test(DfFinalLag_2$Transit_L1)
+s4<-shapiro.test(DfFinalLag_2$Grocery_L1)
+s5 <-shapiro.test(DfFinalLag_2$Workplace_L1)
+s6<-shapiro.test(DfFinalLag_2$Residential_L1)
+s7<-shapiro.test(DfFinalLag_2$NCases_L1)
+s8<-shapiro.test(DfFinalLag_2$NDeaths_L1)
+s9<-shapiro.test(DfFinalLag_2$Drug_death_L1)
+s10<-shapiro.test(DfFinalLag_2$GSV_workout_L1)
+s11<-shapiro.test(DfFinalLag_2$Unemplyment_claims_L1)
+s12<-shapiro.test(DfFinalLag_2$SP_L1)
+s13 <-shapiro.test(DfFinalLag_2$Parks_L1)
 
 #### Model specoific
 
