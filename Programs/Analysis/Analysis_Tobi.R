@@ -13,7 +13,7 @@ library(lubridate)
 library("Hmisc")
 
 
-Path <- "C:\\Users\\Tobias Mayer\\Desktop\\RSM\\Advanced Statistics & Programming\\Group_Assignment\\"
+Path <- "C:\\Users\\rouma\\Documents\\Wirtschaftsinformatik\\Master\\Advanced Statistics and Programming\\Group Assignment\\"
 
 DfFinalLag_2 <-  read.csv(file = paste0(Path, "Dataset_Basic_L2.csv"))
 DfStringencyLag_2 <- read.csv(file = paste0(Path, "Dataset_Stringency_L2.csv"))
@@ -26,6 +26,7 @@ CorMatrix <- rcorr(as.matrix(DfFinalLag_2[, c("Recreation_L1","Grocery_L1","Tran
 mdlBasic <- GSV_index ~ Recreation_L1 + Grocery_L1 + Transit_L1 + Parks_L1 + Workplace_L1
 mdlBasicControll <- GSV_index ~ Recreation_L1 + Grocery_L1 + Transit_L1 + Parks_L1 + Workplace_L1 + NCases_L1 + NDeaths_L1 + Drug_death_L1 + GSV_workout_L1 + Unemplyment_claims_L1 + SP_L1
 
+stargazer(DfFinalLag_2, type="text")
 ### Lag 1
 
 # Pooled
@@ -56,7 +57,20 @@ lmtest::bptest(FE_BasicControll)
 # heteroscedasticity 
 SE_FE_BasicControll <- sqrt(diag(vcovHC(FE_BasicControll , type ="HC0")))
 
-stargazer(FE_Basic, FE_BasicControll,  type="text")
+
+#rmse
+FE_Basic_Ehat <- FE_Basic$df.residual
+FE_Basic_rmse <- round(sqrt(sum(residuals(FE_Basic) ^2) / FE_Basic_Ehat),3)
+
+FE_BasicControll_Ehat <- FE_BasicControll$df.residual
+FE_BasicControll_rmse <- round(sqrt(sum(residuals(FE_BasicControll) ^2) / FE_BasicControll_Ehat), 3)
+
+#LSDV
+R2.LSDV_Basic <- round(1- (var(residuals(FE_Basic)) / var(FE_Basic$model$GSV_index)),3)
+R2.LSDV_Controll <-round(1 - (var(residuals(FE_BasicControll)) / var(FE_BasicControll$model$GSV_index)),3)
+
+stargazer(FE_Basic, FE_BasicControll, add.lines = list(c("RMSE",FE_Basic_rmse,FE_BasicControll_rmse),
+                                                       c("R2.LSDV",R2.LSDV_Basic, R2.LSDV_Controll)), type="text")
 
 # RE
 RE_Basic <- plm(mdlBasic, data = DfFinalLag_2,
@@ -88,7 +102,15 @@ lmtest::bptest(FE_BasicControll_L2)
 # heteroscedasticity 
 SE_FE_BasicControll_L2 <- sqrt(diag(vcovHC(FE_BasicControll_L2 , type ="HC0")))
 
-stargazer(FE_BasicControll_L2,  type="text")
+#rmse
+FE_BasicControll_L2_ehat <- FE_BasicControll_L2$df.residual
+FE_BasicControll_L2_rmse <- round(sqrt(sum(residuals(FE_BasicControll_L2) ^2) /FE_BasicControll_L2_ehat), 3)
+
+#LSDV
+R2.LSDV_L2 <- round(1- (var(residuals(FE_BasicControll_L2)) / var(FE_BasicControll_L2$model$GSV_index)),3)
+
+stargazer(FE_BasicControll_L2, add.lines = list(c("RMSE",FE_BasicControll_L2_rmse),
+                                                c("R2.LSDV",R2.LSDV_L2 )), type="text")
 
 
 # Tests
@@ -153,7 +175,7 @@ stargazer(FE_Basic, FE_BasicControll,
           df = FALSE)
 
 stargazer(FE_BasicControll_L2,
-          type = "text",
+          #type = "text",
           add.lines = list(c("White's SE", "Yes")),
           se = list(SE_FE_BasicControll_L2),
           df = FALSE)
@@ -211,10 +233,38 @@ vif(lm(mdlBasicControll,DfFinalLag_2.end ))
 
 stargazer(FE_BasicControll.end, type = "text")
 
+#RMSE
+#Beginning
+FE_BasicControll.beg_Ehat <- FE_BasicControll.beg$df.residual
+FE_BasicControll.beg_rmse <- round(sqrt(sum(residuals(FE_BasicControll.beg) ^2) /FE_BasicControll.beg_Ehat), 3)
+
+#Stringency
+FE_BasicControllStringrency_Ehat <- FE_BasicControllStringrency.beg$df.residual
+FE_BasicControllStringrency_rmse <- round(sqrt(sum(residuals(FE_BasicControllStringrency.beg) ^2) /FE_BasicControllStringrency_Ehat),3)
+
+#End 
+FE_BasicControll.end_Ehat <- FE_BasicControll.end$df.residual
+FE_BasicControll.end_rmse <- round(sqrt(sum(residuals(FE_BasicControll.end) ^2) /FE_BasicControll.end_Ehat), 3)
+
+
+#LSDV
+#Beginning
+R2.LSDV_Beg <- round(1- (var(residuals(FE_BasicControll.beg)) / var(FE_BasicControll.beg$model$GSV_index)),3)
+
+#Stringency
+R2.LSDV_BegStringency <- round(1- (var(residuals(FE_BasicControllStringrency.beg)) / var(FE_BasicControllStringrency.beg$model$GSV_index)),3)
+
+#End
+R2.LSDV_End <- round(1- (var(residuals(FE_BasicControll.end)) / var(FE_BasicControll.end$model$GSV_index)),3)
+
+
+
 # Summary of the results
 
 stargazer(FE_BasicControll.beg, FE_BasicControllStringrency.beg,FE_BasicControll.end,
           type = "text",
-          add.lines = list(c("White's SE", "Yes", "Yes","Yes")),
+          add.lines = list(c("RMSE", FE_BasicControll.beg_rmse, FE_BasicControllStringrency_rmse, FE_BasicControll.end_rmse),
+                           c("R2.LSDV", R2.LSDV_Beg, R2.LSDV_BegStringency, R2.LSDV_End),
+            c("White's SE", "Yes", "Yes","Yes")),
           se = list(SE_FE_BasicControll.beg,SE_FE_BasicControllStringrency,SE_FE_BasicControll.end),
           df = FALSE)
